@@ -5,19 +5,19 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=I'm+Shuvo!" alt="Name" />
 
 <p align="center">
-  <b>Machine Learning Engineer | Data Architect | Problem Solver</b><br>
+  <b>Machine Learning Engineer | Data Architect | Problem Solver | Researcher</b><br>
   <i>Transforming complex data into elegant, scalable AI solutions.</i>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/-Email-black.svg?style=flat-square&logo=gmail&colorB=555" alt="Email"></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-black.svg?style=flat-square&logo=vimeo&colorB=555" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/shuvo-c-das/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="formeshuvo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://shuvodas.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-191919?style=flat-square&logo=vimeo&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
-### 🟩 Arsenal & Technologies
+### 🟩 Expertise & Technologies
 
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none;">
@@ -52,10 +52,10 @@
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none;">
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=shuvodoes&bg_color=00000000&title_color=2ECC71&text_color=8c8c8c&icon_color=2ECC71&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=shuvodoes&hide_bg=true&title_color=2ECC71&text_color=8c8c8c&icon_color=2ECC71&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170" alt="GitHub Stats" />
     </td>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvodoes&bg_color=00000000&title_color=2ECC71&text_color=8c8c8c&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvodoes&hide_bg=true&title_color=2ECC71&text_color=8c8c8c&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" alt="Top Languages" />
     </td>
   </tr>
 </table>
