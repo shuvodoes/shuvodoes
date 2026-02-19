@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Shuvo!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8c8c8c&center=true&vCenter=true&width=600&lines=Hi+there,;Glad+to+see+you+here!" alt="Greeting" />
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=I'm+Shuvo!" alt="Name" />
 
 <p align="center">
   <b>Machine Learning Engineer | Data Architect | Problem Solver</b><br>
@@ -58,12 +60,16 @@
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvodoes&background=00000000&stroke=0000&ring=2ECC71&fire=2ECC71&currStreakNum=8c8c8c&sideNums=8c8c8c&currStreakLabel=2ECC71&sideLabels=8c8c8c&dates=8c8c8c&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvodoes&background=00000000&stroke=2ECC71&ring=2ECC71&fire=2ECC71&currStreakNum=8c8c8c&sideNums=8c8c8c&currStreakLabel=2ECC71&sideLabels=8c8c8c&dates=8c8c8c&hide_border=false&border=2ECC71&border_radius=10" alt="GitHub Streak" />
 
 <br><br>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=shuvodoes&icon=0&color=2" alt="Profile Views" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvodoes&bg_color=00000000&color=8c8c8c&line=2ECC71&point=2ECC71&area=true&hide_border=false&border=2ECC71&border_radius=10" alt="GitHub Activity Graph" />
+
+<br><br>
+
+<a href="https://github.com/shuvodoes">
+  <img src="https://komarev.com/ghpvc/?username=shuvodoes&color=2ECC71&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </a>
 
 </div>
